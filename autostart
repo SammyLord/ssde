@@ -1,0 +1,4 @@
+nitrogen --restore &
+scim -d &
+xfce4-panel &
+nm-applet --indicator &
