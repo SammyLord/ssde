@@ -11,3 +11,6 @@ echo Done! If you want a setup near identical to The Spellman, run pack.sh!
 echo It is also REQUIRED that you reboot either after you run pack.sh or
 echo "after this script is done (right now!)"
 echo "Also optionally run remove-cinnamon.sh if youre on Linux Mint 22"
+
+echo "fetchkisser -bk | lolcat" > ~/.bashrc
+echo "cat /dev/null > ~/.bash_history && history -c" ~/.bashrc
