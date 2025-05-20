@@ -1,4 +1,4 @@
-sudo apt install xinit openbox xfce4-panel lxappearance nitrogen lxterminal gthumb thunar obconf xfce4-screenshooter arandr blueman pcmanfm pipewire-alsa pipewire-audio pavucontrol gthumb sudo network-manager-gnome network-manager
+sudo apt install xinit lolcat openbox xfce4-panel lxappearance nitrogen lxterminal gthumb thunar obconf xfce4-screenshooter arandr blueman pcmanfm pipewire-alsa pipewire-audio pavucontrol gthumb sudo network-manager-gnome network-manager
 sudo cp -r ./autostart /etc/xdg/openbox/autostart
 git clone https://github.com/SammyLord/fetchkisser
 chmod +x ././fetchkisser/fetchkisser.sh
