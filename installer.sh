@@ -1,7 +1,7 @@
 sudo apt install libfuse2t64 openbox ntpsec-ntpdate xfce4-panel lxappearance nitrogen lxterminal gthumb thunar obconf xfce4-screenshooter arandr blueman pcmanfm pipewire-alsa pipewire-audio pavucontrol gthumb sudo network-manager-gnome network-manager
 sudo apt install network-manager-vpnc network-manager-openvpn network-manager-gnome
 sudo cp -r ./autostart /etc/xdg/openbox/autostart
-git clone https://github.com/Sneed-Group/fetchkisser
+git clone https://github.com/SammyLord/fetchkisser
 chmod +x ././fetchkisser/fetchkisser.sh
 sudo cp -r ./fetchkisser/fetchkisser.sh /usr/bin/fetchkisser
 cp -r "sparksammys-dotfiles/.config" ~
